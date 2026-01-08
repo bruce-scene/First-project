@@ -1,4 +1,4 @@
-My-First-project
+# My-First-project
 
-⦁	Test
-⦁	Created Using Git and Github Desktop then pushed it
+-	Test
+- Created Using Git and Github Desktop then pushed it
